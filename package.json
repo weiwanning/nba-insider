@@ -1,0 +1,28 @@
+{
+  "name": "nba-insider",
+  "version": "1.0.0",
+  "description": "wow",
+  "main": "index.js",
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "mysql": "^2.13.0",
+    "sprintf-js": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiwanning/nba-insider.git"
+  },
+  "keywords": [
+    "amazing"
+  ],
+  "author": "wanning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiwanning/nba-insider/issues"
+  },
+  "homepage": "https://github.com/weiwanning/nba-insider#readme"
+}
